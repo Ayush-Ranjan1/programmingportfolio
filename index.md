@@ -5,6 +5,5 @@
 ### Space Game
 OOP game built in Processsing. December 2020.
 
-Image of the running game.
-
+![Image of Spacegame](https://raw.githubusercontent.com/Ayush-Ranjan1/programmingportfolio/gh-pages/images/SpaceGame.png)
 Source Code available here.
