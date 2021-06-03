@@ -41,3 +41,8 @@ Calculates your age based on your birthday and the current date.
 ![Image of TIME](https://github.com/Ayush-Ranjan1/programmingportfolio/blob/gh-pages/images/timeimage.png)
 
 Source Code available [here](https://github.com/Ayush-Ranjan1/programmingportfolio/blob/gh-pages/src/Time/TIME.zip).
+
+### Calculator
+Simple text based calculator in C++.
+
+Source Code available [here](https://github.com/Ayush-Ranjan1/programmingportfolio/blob/gh-pages/src/main.cpp).
